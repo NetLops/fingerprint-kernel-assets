@@ -1,0 +1,11 @@
+/staging/
+*.app
+*.dmg
+*.zip
+*.pkg
+*.tar
+*.tar.gz
+*.tgz
+*.log
+*.tmp
+*.swp
