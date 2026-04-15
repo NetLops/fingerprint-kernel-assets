@@ -1,4 +1,5 @@
-/staging/
+/staging/*
+!/staging/.gitignore
 *.app
 *.dmg
 *.zip
